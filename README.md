@@ -1,2 +1,1 @@
-# test file
-* hello i m naveen
+hello, buddy this is test.
