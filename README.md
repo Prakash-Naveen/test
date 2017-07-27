@@ -11,3 +11,6 @@ From a partner standpoint, Quickstart templates are gold standard azure deployme
 
 Templates should be targeting a specific scenario workload, or some of the commonly deployed solutions architecture across the globe. At the same time, it needs to be easily customizable as well to meet unique business needs1.<br />
 
+
+this test
+
